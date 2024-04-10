@@ -7,3 +7,5 @@ add
 push
 origin master
 remote
+ls -la
+gh command
