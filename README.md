@@ -5,5 +5,5 @@ Commands include -
 clone
 add
 push
-origin 
+origin master
 remote
